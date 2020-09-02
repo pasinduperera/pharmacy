@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "respectcab-live",
+  "private_key_id": "3fa6b21f9ee7c98de9834f7ec0d287e6f5a86477",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKStNNWq06vwbT\nIuEVO0cv5FDQZiBVxgsXayFPMIhhUc5iDw4AqhyOF8Gb4vwctb5hnvWp24bvtxst\n/GFRhoNh1xFb6p2wKIySRirIKSVmJHLxp7FAUD1hMbE8icSWEcaNg8cx7fdW11SE\nPi8YzuueesdAGetwM3gFgmXOhQbbdejt3x/nxMzmMzhgvN17RlqO2FXLKitKvPdA\nQMkbViBWG32eeP7nbHL0ZfjRdpkw4O3etdGF0eySFM+vex2dtt/BYRJUEiXoT09H\nVKMCLzeangAWkgqsIlnSAICc5tAAaweliiX6F+LJ/fkVaPO+Eos2/8NpEY128MIp\nFahdhFkrAgMBAAECggEAQUVnbHwnjN76OsH0Uj9wNrm6gaOSJ1rhVUsR0lVci9oz\nd1xYLkq1L/vmUoAozLKvnRwHNClLHqm8MVhPplh6p+UXCstm2eIbiU7umur70DtO\ngz6SaKf7RhMcluX08l8F679rVGbt+a087faKh7ysNdRz2fEDEI7q2Qw8ASjXD5Qm\nVk3neA4Qc+qNWOt1SHbgLIlmRLi2nr2QpthllLqfBsnkfeEBAtuvXPUPSInVXsGT\nn4o3XfwMYRyj/Sxhe6eSv+H82Xv85SZ3tNiUlvbFdqDdl88NqIngntreOc+RrVzQ\nzC/kGDiFwyF4Q5duA9LyfQPfP/KEdgO1knivemYjsQKBgQD8FxA5vscfYt7R7Fu4\nKj1QZUO2ISAIBDozcAh7dQ+BTXgPior0L79nwWW3AspqKAgSUTP9Rai6rQ6aAZv1\nVDPnFjKZd53VfEV7hwv6b22G5ZTLLV1QhdT8PLGqc2FV3Wjwk+Q3zH/URBDn0ekl\nDNKR229R9G6nEST1bR/HXuizxQKBgQDNbgmLdcyLUzUBX5IytQHdcubKo+CxmpMj\n1eviFVxkLhWNgjNBRSqCxw5YjD5t1b88cCnUWFUKH5s/zWReA7fSlry2XhpPro7j\nqseQSyS29hdeTm5cEHfSCXx9DTHzI9+0zU/TsCpG5PIWNuNf2yZ5cWAckYAmYpkU\nTfWc99t4LwKBgC4mksPfl1i5ow1PdiMrKHp1b4YCXnjZPUZ5djQT5DjJ0/cUaAf4\nTdRS5aoxipkQpxmjYB84B4HVeNzc+o5ZUf82YyERcwXIcHgC60B38ddGZI0lyvWY\n6rsa6XPJF8K+fB2/FYLZn3Ve2LF4DnTH+izVvXWFiFRxoRCFX9ICIBv5AoGAcxau\nqj74tSWMkJRmZ5oYzWPOAMEG5PlgbbcvS54EAOwAjyLebDa/tjymwNzxLL+PP+Dm\nzlweaGmEpJ4BGNqkZYqldtYJj5KP4uSOoTw3+XitZtwx38oqFrXR1I1L6peygKx1\niHcteEJTjjZ58/3m9CqcWeT6Eocyk7mJXMNPZWkCgYEA5hINE/3LJ62OGVtlbZYY\nx7Vsyhz/ErzIncMjsPWdrk+ugq86cVt/EknGUcEjZ9wB87YSGUUHWpsdkyWB8BUl\nHFVopVvelojTojTdqKCDTif/OFntnRo75dtfdOMLZ64fj9wbx8s2t1do67NAowPV\n+3bh6seaRC5uKL8f61RtOOU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-a4aob@respectcab-live.iam.gserviceaccount.com",
+  "client_id": "112649514615639388518",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-a4aob%40respectcab-live.iam.gserviceaccount.com"
+}

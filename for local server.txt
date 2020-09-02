@@ -1,0 +1,25 @@
+error corrections for local server....
+1.Client.php
+(vendor/guzzlehttp/guzzle/src/client.php)
+
+   private function configureDefaults(array $config)
+    {
+        $defaults = [
+            'allow_redirects' => RedirectMiddleware::$defaultSettings,
+            'http_errors'     => false,
+            'decode_content'  => false,
+            'verify'          => false,
+            'cookies'         => false
+        ];
+
+***previous code was*****
+   private function configureDefaults(array $config)
+    {
+        $defaults = [
+            'allow_redirects' => RedirectMiddleware::$defaultSettings,
+            'http_errors'     => false,
+            'decode_content'  => false,
+            'verify'          => true,
+            'cookies'         => true
+        ];
+
